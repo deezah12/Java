@@ -2,243 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6803967f-6952-4c1d-9806-fe5f388f24c1" name="Changes" comment="code updates">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyGoal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/DieteExamples/CH10_16/PayableInterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/DieteExamples/CH10_16/PayableRollSystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/DieteExamples/CH10_17/CompensationModelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/DieteExamples/CH10_18/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/DieteExamples/CH10_18/PayableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/DieteExamples/CommissionEmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/FactorNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/PrimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/ReverseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/bike/BikeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/bike2/Bike1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter11/exception/already_exist/LanguageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter11/exception/exercise_11_16/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter11/exception/ivalid_age/ExamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter11/exception/studentNotFound/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter11/exception/unchecked/RegistrationServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter14/WordCombinatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter3/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter3/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter3/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter3Test/InvoiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter4/GasMileageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter4/TicketTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter4/store/SalesPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter4/store/StoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter4/turtle/TurtleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter5/AutoPolicyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter6/ParkingChargesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter8_inclass/AirConditionerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter8_inclass/TelevisionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/chapter8_inclass/TimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/codeLife/ArraySortingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/codewars/IntToStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/codewars/KataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/codewars/RemoveStringSpaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/codewars/ReversedDigitArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/codewars/StringRepeatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/com/ChibuzorAssigmentTDD/DrillerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/com/ChibuzorAssigmentTDD/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/com/ChibuzorAssigmentTDD/claswork/StoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/dataStructure/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/dataStructure/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/list/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/myBank/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/myBank/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/regex/PasswordValidationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/sales/SalesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/stack_list/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/tic_tac_toeTest/TicTacToeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/tictactoe/TicTacTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/turtle1/TurtleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/turtleTest/TurtleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayBoard2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_16/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_16/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_16/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_16/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_16/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_16/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_16/PieceWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_16/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_17/BasePlusCommissionCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_17/CommissionCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_17/CompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_17/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_17/HourlyCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_17/SalaryCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_18/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_18/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CH10_18/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/Craps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/LoopFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/Lottery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/RandomIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/abstrct/Hadiza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/abstrct/Lekan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/abstrct/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/abstrct/Wrestler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/employ/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/employ/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/employ/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/employ/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/inheritance/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/inheritance/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/inheritance/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/intermeet/Deezah.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/intermeet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/intermeet/Segun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieteExamples/intermeet/Wrestlers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactorNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bike/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bike2/Bike1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/InvalidDateOfBirthException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/TestCustomException1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/already_exist/AlreadyExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/already_exist/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/exercise_11_16/ExceptionA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/exercise_11_16/ExceptionB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/exercise_11_16/ExceptionC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/exercise_11_19/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/exercise_11_19/ValidationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/ivalid_age/Exam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/ivalid_age/InvalidAgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/studentNotFound/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/studentNotFound/StudentNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/unchecked/InvalidEmailException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/exception/unchecked/RegistrationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/ComparingPortionOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/CreditCardNumberValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/Palindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/ReversedWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/TokenizingTelephoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/WordCombinator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/CreateTextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/JavaNioSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/files/FileOutputStreamSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Ch2_2_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Ch2_2_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Stars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/BiggestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ClassAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/GasMileage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/GasMillage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Mystery3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/SalaryCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/SalesCommissionCal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/UnicornArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/store/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/store/SalesPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/store/StoreCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/turtle/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/turtle/PenPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/turtle/SketchPad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/turtle/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/MaximumFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/ParkingCharges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/RandomInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/RollDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/RoundingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/MainCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_inclass/AirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_inclass/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_inclass/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLife/ArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLife/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLife/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLife/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLife/PositiveNegativeZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLife/SubtractionQuizLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLife/loop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/AlternatingCases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/FeastOfBeast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/IntToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/RemoveLastAndFirstCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/RemoveStringSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/ReversedDigitArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/StringRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Chibuzor/Assigment/Driller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter2/ArithSmLa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter2/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter2/ComparingInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter3/ComparisonUsingFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter3/ComparisonUsingWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter3/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter5/AutoPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter5/ClassGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter5/CompoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter5/diary/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter5/diary/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter5/diary/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter5/diary/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/claswork/ArrayShuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/claswork/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/femi_assign/TimeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/huge_integer/HugeInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/huge_integer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iostreams/InputStreamSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myBank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myBank/Atm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myBank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myBank/InvalidAmountException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex/PasswordValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sales/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sales/SalesPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/CreateStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_list/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_list/Vec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tic_tac_toe/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tic_tac_toe/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tictactoe/TicTac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/PenPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle1/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle1/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle1/SketchPad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle1/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3school_java/num_37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3school_java/num_38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/ReadTextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +82,20 @@
       <recent name="tictactoe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PositiveNegativeZero">
+  <component name="RunManager" selected="Application.CreateTextFile">
+    <configuration name="CreateTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.CreateTextFile" />
+      <module name="MyGoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FileOutputStreamSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter15.files.FileOutputStreamSample" />
       <module name="MyGoal" />
@@ -373,22 +151,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveStringSpaceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyGoal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="codewars" />
-      <option name="MAIN_CLASS_NAME" value="codewars.RemoveStringSpaceTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StackTest.thatStackIsEmptyTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="MyGoal" />
       <extension name="coverage">
@@ -407,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreateTextFile" />
         <item itemvalue="Application.PositiveNegativeZero" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.FileOutputStreamSample" />
         <item itemvalue="JUnit.KataTest.test" />
-        <item itemvalue="JUnit.RemoveStringSpaceTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -500,8 +262,18 @@
       <workItem from="1662973905987" duration="1803000" />
       <workItem from="1662995253067" duration="37627000" />
       <workItem from="1663340554923" duration="661000" />
-      <workItem from="1663446683940" duration="24271000" />
+      <workItem from="1663446683940" duration="26364000" />
+      <workItem from="1663679864636" duration="4307000" />
+      <workItem from="1663924030116" duration="2365000" />
     </task>
+    <task id="LOCAL-00001" summary="code updates">
+      <created>1663659931839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663659931839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
