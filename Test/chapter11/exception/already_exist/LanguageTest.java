@@ -1,7 +1,7 @@
 package chapter11.exception.already_exist;
 
 
-import list.ArrayList;
+import listes.ArrayList;
 
 import java.util.Arrays;
 import java.util.List;

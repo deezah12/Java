@@ -7,8 +7,9 @@ import java.text.SimpleDateFormat;
 public class ProductTest {
     public static void main(String[] args) {
 
-        Product shop = new Product("hgx", 2,300,600);
+        //Product shop = new Product("hgx", 2,300,600);
 
+        Product shop = new Product();
         String productName;
         int quantity;
         double price;
@@ -18,6 +19,8 @@ public class ProductTest {
         double discount;
         double vatAmount;
         char choice;
+
+
 
 
 

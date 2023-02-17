@@ -91,7 +91,7 @@ public class SevenSeg {
     }
 
     public static void main(String[] args) {
-        setValue("1111111");
+        setValue("11110111");
         display();
     }
 

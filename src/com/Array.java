@@ -16,8 +16,6 @@ public class Array {
                 }
             }
         }
-//        for (int j : array) {
-//            System.out.println(j);
         System.out.println(Arrays.toString(array));
 
         }

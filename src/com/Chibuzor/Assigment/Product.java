@@ -7,6 +7,7 @@ package com.Chibuzor.Assigment;
         private double price;
         private double totalPrice;
         private String customerName;
+        public  Product(){}
 
         public Product(String productName, int quantity, double price, double totalPrice){
 

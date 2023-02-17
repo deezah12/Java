@@ -11,7 +11,8 @@ public class PasswordValidation {
         System.out.println(isValid());
     }
     public static boolean isValid(){
-        Pattern p  = Pattern.compile("(?=.*\\d)+(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,16}");
+       // Pattern p  = Pattern.compile("(?=.*\\d)+(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,16}");
+        Pattern p  = Pattern.compile("^(?=.*\\d)+(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z])(?=.*[!@#&()–[{}]:;',?/*~$^+=<>])+.{8,16}$");
         Matcher m = p.matcher("@Deezah1");
         return m.matches();
     }

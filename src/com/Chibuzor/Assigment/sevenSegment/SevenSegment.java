@@ -6,7 +6,7 @@ public class SevenSegment {
 
         public static void main(String[] args) {
 
-            setBoard("11011011");
+            setBoard("1011111111");
             display();
         }
 
@@ -72,7 +72,7 @@ public class SevenSegment {
 
         }
 
-        static void setBoard(String input) {
+        static void setBoard(String  input) {
 
             if (input.length() > 8) {
                 input = input.substring(0, 8);

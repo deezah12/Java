@@ -6,7 +6,7 @@ public class SevenSegmentWorkings
 
         public static void main(String[] args) {
 
-            method1();
+            method3();
         }
 
         static void method1() {
@@ -17,12 +17,12 @@ public class SevenSegmentWorkings
                     array[i][j] = 1;
                 }
             }
-            for (int[] i : array) {
-                for (int j : i) {
-                    System.out.print(j);
-                }
-                System.out.println();
-            }
+//            for (int[] i : array) {
+//                for (int j : i) {
+//                    System.out.print(j);
+//                }
+//                System.out.println();
+//            }
         }
 
         static void method2() {
